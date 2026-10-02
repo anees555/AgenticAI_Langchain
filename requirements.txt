@@ -11,3 +11,6 @@ langchain-mcp-adapters
 mcp
 pypdf
 pymupdf
+sentence-transformers
+faiss-cpu
+chromadb
